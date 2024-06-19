@@ -8,7 +8,7 @@
  Website:   https://www.macode.web.id/
 
  [Table of contents]
-m 
+
  1. Basic
  2. Button
  3. Color Scheme
@@ -24,16 +24,16 @@ m
  13. Page Switching
  14. Carousel
  15. Grid (OpenGraph)
- 
+
  */
- /* l  */
+
 :root {
     --theme-red: #ef3724;
     --theme-blue: #2960f7;
     --theme-green: #8cc63f;
     --theme-orange: #fd7e14;
     --theme-purple: #6f42c1;
-} 
+}
 
 /* Light */
 @font-face {

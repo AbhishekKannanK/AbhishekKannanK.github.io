@@ -13,11 +13,11 @@
     height: 70px;
     background-color: #2C2D34;
     color: #fff;
-} 
-/* a  */
+}
+
 .topbar-nav .brand img {
     filter: brightness(200);
-} 
+}
 
 .topbar-nav h3 {
     display: inline-block;
